@@ -1,3 +1,0 @@
-{
-  "src/**/*.{ts,tsx}": ["eslint 'src/**' --fix --max-warnings=0"]
-}
